@@ -1,34 +1,25 @@
-# 👋 Hi there, I’m @Ramim-Siddiqui  
+# Ramim Ali Siddiqui
 
-### 🚀 About Me
-- 💻 Passionate about **Artificial Intelligence and Web Development**.  
-- 🎓 **BSCS (AI) Graduate** from Sukkur IBA University.  
-- 🏥 Hands-on experience in **AI-driven projects and real-world applications**.  
-- 🌱 Exploring cutting-edge research in **Graph Neural Networks (GNNs), Transformers, Retrieval-Augmented Generation (RAG)**, and **real-time communication (RTC)** systems.  
-- 💞️ Open to collaborations on **AI research and innovative software solutions**.  
+Computer Science (AI) student at Sukkur IBA University, building applied AI systems: voice agents, LLM workflows, and graph neural networks for code security. Open to AI / ML engineering roles.
 
----
+## Featured projects
 
-### 🛠 Skills and Technologies  
+| Project | What it is | Stack |
+|---|---|---|
+| [Voice AI Patient Registration Agent](https://github.com/Ramim-Siddiqui/Voice-AI-patient-registration-agent) | Phone agent that registers patients through natural conversation, with validation, duplicate detection and a live dashboard ([demo](https://voice-patient-registration-seven.vercel.app)) | Python, FastAPI, Vapi, PostgreSQL |
+| [Support Ticket Agent](https://github.com/Ramim-Siddiqui/Support-Agent) | LangGraph workflow that classifies tickets, retrieves knowledge, drafts replies and reviews them before escalating | LangGraph, Gemini, Chroma |
+| [Vulnerability Detection with GNNs](https://github.com/Ramim-Siddiqui/FYP) | Final-year project: GraphSAGE over C/C++ syntax trees, 93% accuracy on held-out Devign functions | PyTorch Geometric, libclang |
+| [GitHub Stars Crawler](https://github.com/Ramim-Siddiqui/github-stars-crawler) | GraphQL crawler run by GitHub Actions that stores repository star counts in PostgreSQL | Python, GraphQL, PostgreSQL |
 
-- **Languages**: Java, Python, JavaScript, HTML/CSS  
-- **Frameworks & Tools**: React, Node.js, Bootstrap, Git, VS Code, Visual Studio, IntelliJ, MongoDB, Google Colab  
-- **Databases**: MySQL, MongoDB  
-- **Libraries & ML/DL Frameworks**: NumPy, SciPy, scikit-learn, TensorFlow, Keras, PyTorch, pandas, Matplotlib, Theano  
-- **AI & Machine Learning Expertise**:  
-  - Classical ML: Linear/Logistic Regression, Decision Trees, Random Forests, SVM, KNN, Naive Bayes, Gradient Boosting  
-  - Deep Learning: CNNs, RNNs, LSTMs, Autoencoders  
-  - Advanced AI: **Graph Neural Networks (GNNs), Transformers, Retrieval-Augmented Generation (RAG), Attention Mechanisms**  
+More: [ML/DL experiments](https://github.com/Ramim-Siddiqui/ML-DL-AI-hub) · [web projects](https://github.com/Ramim-Siddiqui/web-development-hub)
 
----
+## Skills
 
-### 🌟 Other
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving complex puzzles — whether in **AI research or real-world logic challenges**!  
+- **Languages:** Python, JavaScript, Java, SQL
+- **AI / ML:** PyTorch, PyTorch Geometric, TensorFlow/Keras, scikit-learn, LangChain, LangGraph, RAG, voice agents
+- **Backend & data:** FastAPI, Node.js/Express, PostgreSQL, MongoDB, REST APIs
+- **Frontend & tools:** React, Git, GitHub Actions, Vercel
 
----
+## Contact
 
-<!---
-Ramim-Siddiqui/Ramim-Siddiqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sukkur, Pakistan · open to remote roles
