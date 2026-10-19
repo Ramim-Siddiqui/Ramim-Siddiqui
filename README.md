@@ -2,6 +2,8 @@
 
 AI/ML Engineer with a B.S. in Computer Science from Sukkur IBA University (2025). I build end-to-end AI systems: voice agents, LLM workflows, deep learning models and the data pipelines and APIs that put them into production. Currently an AI Engineer at Gems Pathways, Karachi.
 
+**Portfolio:** [ramim-siddiqui.vercel.app](https://ramim-siddiqui.vercel.app)
+
 ## Featured projects
 
 | Project | What it is | Stack |
@@ -29,6 +31,7 @@ More experiments: [ML / DL / AI hub](https://github.com/Ramim-Siddiqui/ML-DL-AI-
 
 ## Contact
 
+- Portfolio: [ramim-siddiqui.vercel.app](https://ramim-siddiqui.vercel.app)
 - Email: [ramimalisiddiqui0@gmail.com](mailto:ramimalisiddiqui0@gmail.com)
 - LinkedIn: [linkedin.com/in/ramim-siddiqui](https://www.linkedin.com/in/ramim-siddiqui)
 - Karachi, Pakistan
