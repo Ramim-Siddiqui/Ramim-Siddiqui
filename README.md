@@ -1,6 +1,6 @@
 # Ramim Ali Siddiqui
 
-Computer Science (AI) student at Sukkur IBA University, building applied AI systems: voice agents, LLM workflows, and graph neural networks for code security. Open to AI / ML engineering roles.
+AI/ML Engineer with a B.S. in Computer Science from Sukkur IBA University (2025). I build end-to-end AI systems: voice agents, LLM workflows, deep learning models and the data pipelines and APIs that put them into production. Currently an AI Engineer at Gems Pathways, Karachi.
 
 ## Featured projects
 
@@ -11,15 +11,23 @@ Computer Science (AI) student at Sukkur IBA University, building applied AI syst
 | [Vulnerability Detection with GNNs](https://github.com/Ramim-Siddiqui/FYP) | Final-year project: GraphSAGE over C/C++ syntax trees, 93% accuracy on held-out Devign functions | PyTorch Geometric, libclang |
 | [GitHub Stars Crawler](https://github.com/Ramim-Siddiqui/github-stars-crawler) | GraphQL crawler run by GitHub Actions that stores repository star counts in PostgreSQL | Python, GraphQL, PostgreSQL |
 
-More: [ML/DL experiments](https://github.com/Ramim-Siddiqui/ML-DL-AI-hub) · [web projects](https://github.com/Ramim-Siddiqui/web-development-hub)
+More experiments: [ML / DL / AI hub](https://github.com/Ramim-Siddiqui/ML-DL-AI-hub)
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, SQL
-- **AI / ML:** PyTorch, PyTorch Geometric, TensorFlow/Keras, scikit-learn, LangChain, LangGraph, RAG, voice agents
-- **Backend & data:** FastAPI, Node.js/Express, PostgreSQL, MongoDB, REST APIs
-- **Frontend & tools:** React, Git, GitHub Actions, Vercel
+- **Machine learning & AI:** supervised and unsupervised learning, CNN, RNN, LSTM, GNN, transfer learning, Transformers
+- **Applied AI:** generative AI, NLP, computer vision, document intelligence, voice agents, workflow automation
+- **LLM frameworks & agents:** LangChain, LangGraph, RAG
+- **Deep learning:** PyTorch, PyTorch Geometric, TensorFlow, Keras
+- **Data science:** pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn
+- **MLOps & deployment:** FastAPI, Flask, MLflow, Docker, Kubernetes, Git, GitHub Actions, VPS (Linux)
+- **Data engineering:** SQL, PostgreSQL, MongoDB, ETL pipelines, Boomi, feature engineering
+- **APIs & integration:** REST APIs, Postman, AI service integration
+- **Cloud:** AWS, GCP
+- **Languages:** Python, SQL, Java
 
 ## Contact
 
-Sukkur, Pakistan · open to remote roles
+- Email: [ramimalisiddiqui0@gmail.com](mailto:ramimalisiddiqui0@gmail.com)
+- LinkedIn: [linkedin.com/in/ramim-siddiqui](https://www.linkedin.com/in/ramim-siddiqui)
+- Karachi, Pakistan
