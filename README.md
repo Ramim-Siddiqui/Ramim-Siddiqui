@@ -10,11 +10,11 @@ AI/ML Engineer with a B.S. in Computer Science from Sukkur IBA University (2025)
 |---|---|---|
 | [Voice AI Patient Registration Agent](https://github.com/Ramim-Siddiqui/Voice-AI-patient-registration-agent) | Phone agent that registers patients through natural conversation, with validation, duplicate detection and a live dashboard ([demo](https://voice-patient-registration-seven.vercel.app)) | Python, FastAPI, Vapi, PostgreSQL |
 | [Support Ticket Agent](https://github.com/Ramim-Siddiqui/Support-Agent) | LangGraph workflow that classifies tickets, retrieves knowledge, drafts replies and reviews them before escalating ([demo](https://support-ticket-agent.vercel.app)) | LangGraph, Gemini, FastAPI |
-| [MCQ Studio](https://github.com/Ramim-Siddiqui/mcq-studio) | Service that writes exam MCQs from a textbook by chapter weightage and extracts existing MCQs from question papers; 173 tests | FastAPI, Qdrant, Gemini/Groq, PyMuPDF |
+| [MCQ Studio](https://github.com/Ramim-Siddiqui/mcq-studio) | Built at Gems Pathways: service that writes exam MCQs from a textbook by chapter weightage and extracts existing MCQs from question papers; 173 tests | FastAPI, Qdrant, Gemini/Groq, PyMuPDF |
 | [Smart Attendance System](https://github.com/Ramim-Siddiqui/smart-attendance-system) | Face-recognition attendance from a CCTV camera: recognises enrolled people, numbers strangers and logs IN/OUT times on a normal PC | OpenCV, ONNX Runtime, InsightFace, Tkinter |
-| [PortraitPass](https://github.com/Ramim-Siddiqui/portraitpass) | Checks student ID photos against a portrait policy and returns a transparent cut-out or the reasons for rejection ([demo](https://huggingface.co/spaces/ramimali/student-portrait-bg-remover)) | FastAPI, MediaPipe, BiRefNet, PyTorch |
-| [Vulnerability Detection with GNNs](https://github.com/Ramim-Siddiqui/FYP) | Final-year project: GraphSAGE over C/C++ syntax trees, 93% accuracy on held-out Devign functions | PyTorch Geometric, libclang |
-| [Smart Form Filler](https://github.com/Ramim-Siddiqui/smart-form-filler) | Desktop automation tool: record one data-entry session on any website, then replay it for every row of an Excel sheet, with per-row verification and resumable runs | Python, Playwright, Streamlit |
+| [PortraitPass](https://github.com/Ramim-Siddiqui/portraitpass) | Built at Gems Pathways: checks student ID photos against a portrait policy and returns a transparent cut-out or the reasons for rejection ([demo](https://huggingface.co/spaces/ramimali/student-portrait-bg-remover)) | FastAPI, MediaPipe, BiRefNet, PyTorch |
+| [Vulnerability Detection with GNNs](https://github.com/Ramim-Siddiqui/FYP) | Final-year project: GraphSAGE over C/C++ syntax trees; 93% accuracy on an in-distribution hold-out of Devign functions | PyTorch Geometric, libclang |
+| [Smart Form Filler](https://github.com/Ramim-Siddiqui/smart-form-filler) | Built at Gems Pathways: desktop automation tool that lets you record one data-entry session on any website, then replay it for every row of an Excel sheet, with per-row verification and resumable runs | Python, Playwright, Streamlit |
 | [GitHub Stars Crawler](https://github.com/Ramim-Siddiqui/github-stars-crawler) | GraphQL crawler run by GitHub Actions that stores repository star counts in PostgreSQL | Python, GraphQL, PostgreSQL |
 
 More experiments: [ML / DL / AI hub](https://github.com/Ramim-Siddiqui/ML-DL-AI-hub)
@@ -27,11 +27,11 @@ More experiments: [ML / DL / AI hub](https://github.com/Ramim-Siddiqui/ML-DL-AI-
 - **Computer vision:** OpenCV, MediaPipe, ONNX Runtime, face detection and recognition (SCRFD, ArcFace), image segmentation (BiRefNet)
 - **Deep learning:** PyTorch, PyTorch Geometric, Hugging Face Transformers, TensorFlow, Keras
 - **Data science:** pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn
-- **MLOps & deployment:** FastAPI, Flask, MLflow, Docker, Kubernetes, Git, GitHub Actions, VPS (Linux)
+- **MLOps & deployment:** FastAPI, Flask, MLflow, Docker, Git, GitHub Actions, Linux VPS, Vercel, Hugging Face Spaces
 - **Data engineering:** SQL, PostgreSQL, MongoDB, ETL pipelines, Boomi, feature engineering
-- **APIs & integration:** REST APIs, Postman, AI service integration
-- **Cloud:** AWS, GCP
-- **Languages:** Python, SQL, JavaScript, Java
+- **APIs & integration:** REST APIs, Postman and OData APIs, Laravel portal integration
+- **Cloud:** AWS and GCP (university projects)
+- **Languages:** Python, SQL, JavaScript
 
 ## Contact
 
