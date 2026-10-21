@@ -31,7 +31,7 @@ More experiments: [ML / DL / AI hub](https://github.com/Ramim-Siddiqui/ML-DL-AI-
 - **Data engineering:** SQL, PostgreSQL, MongoDB, ETL pipelines, Boomi, feature engineering
 - **APIs & integration:** REST APIs, Postman, AI service integration
 - **Cloud:** AWS, GCP
-- **Languages:** Python, SQL, Java
+- **Languages:** Python, SQL, JavaScript, Java
 
 ## Contact
 
